@@ -1,1 +1,3 @@
-+0
++0++0
+
+console whrite line
